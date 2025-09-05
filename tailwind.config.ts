@@ -37,6 +37,7 @@ export default {
         },
       },
       fontFamily: {
+        pixel: ["Pixelify Sans", "monospace"],
         fantasy: ["Cinzel", "serif"],
         medieval: ["Uncial Antiqua", "cursive"],
       },

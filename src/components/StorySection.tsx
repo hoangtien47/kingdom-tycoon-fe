@@ -10,7 +10,7 @@ const StorySection = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             {/* Text Content */}
             <div className="text-center lg:text-left">
-              <h2 className="text-4xl md:text-5xl font-fantasy font-bold text-primary-400 mb-8">
+              <h2 className="text-4xl md:text-5xl font-pixel font-bold text-primary-400 mb-8">
                 The Game Story
               </h2>
               <div className="space-y-6 text-lg text-gray-300 leading-relaxed">

@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Pixelify_Sans } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const pixelifySans = Pixelify_Sans({ 
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700"],
+  variable: "--font-pixelify"
+});
 
 export const metadata: Metadata = {
   title: "Tycoon Kingdom - From ashes of ruin, a new kingdom rises",
@@ -45,7 +49,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={pixelifySans.className}>{children}</body>
     </html>
   );
 }

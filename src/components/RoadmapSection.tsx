@@ -58,7 +58,7 @@ const RoadmapSection = () => {
       <div className="absolute inset-0 bg-black/40"></div>
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-fantasy font-bold text-primary-400 mb-8">
+          <h2 className="text-4xl md:text-5xl font-pixel font-bold text-primary-400 mb-8">
             Growth Potential & Roadmap
           </h2>
           

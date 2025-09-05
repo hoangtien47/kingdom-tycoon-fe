@@ -56,7 +56,7 @@ const Navigation = () => {
               height={40}
               className="h-10 w-auto object-contain"
             />
-            <h1 className="text-2xl font-fantasy font-bold text-primary-400">
+            <h1 className="text-2xl font-pixel font-bold text-primary-400">
               Tycoon Kingdom
             </h1>
           </div>

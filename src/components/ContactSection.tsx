@@ -2,13 +2,13 @@ import React from 'react';
 
 const ContactSection = () => {
   const contactInfo = {
-    email: "hello@tycounkingdom.com",
-    website: "https://tycounkingdom.com",
+    email: "kingdomtycoon.game@gmail.com",
+    website: "https://kingdom-tycoon.vercel.app",
     telegram: "https://t.me/tycounkingdom",
-    twitter: "https://x.com/tycounkingdom",
-    facebook: "https://facebook.com/tycounkingdom",
-    youtube: "https://youtube.com/@tycounkingdom",
-    tiktok: "https://tiktok.com/@tycounkingdom"
+    twitter: "https://x.com/kingdomtycoon__&sa=D&source=editors&ust=1757080745147406&usg=AOvVaw0brpcAexm5cdm-xesjH9Xu",
+    facebook: "https://www.google.com/url?q=https://www.facebook.com/tycoonkingdom&sa=D&source=editors&ust=1757080855239515&usg=AOvVaw0lRt4Rf1uXZP9ayPKwDTpC",
+    youtube: "https://www.google.com/url?q=https://www.youtube.com/@TycoonKingdom&sa=D&source=editors&ust=1757080855241236&usg=AOvVaw2j2R3Bq4RUafqamFQ4KITE",
+    tiktok: "https://www.google.com/url?q=https://www.tiktok.com/@tycoonkingdom_&sa=D&source=editors&ust=1757080855241736&usg=AOvVaw0qO0cCcnmpeAvNqiuJykRe"
   };
 
   const socialLinks = [
@@ -49,7 +49,7 @@ const ContactSection = () => {
       <div className="absolute inset-0 bg-black/40"></div>
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-16">
-          <h2 className="text-4xl md:text-5xl font-fantasy font-bold text-primary-400 mb-8">
+          <h2 className="text-4xl md:text-5xl font-pixel font-bold text-primary-400 mb-8">
             Contact Us
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
