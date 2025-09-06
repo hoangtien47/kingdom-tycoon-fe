@@ -9,6 +9,7 @@ const pixelifySans = Pixelify_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://kingdom-tycoon.vercel.app'),
   title: "Tycoon Kingdom - From ashes of ruin, a new kingdom rises",
   description: "Experience the ultimate kingdom building adventure. Build, manage, and grow your realm from ruins to glory in Tycoon Kingdom.",
   keywords: "kingdom, tycoon, game, NFT, blockchain, strategy, building, management",

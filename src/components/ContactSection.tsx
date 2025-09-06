@@ -6,9 +6,9 @@ const ContactSection = () => {
     website: "https://kingdom-tycoon.vercel.app",
     telegram: "https://t.me/tycounkingdom",
     twitter: "https://x.com/kingdomtycoon__&sa=D&source=editors&ust=1757080745147406&usg=AOvVaw0brpcAexm5cdm-xesjH9Xu",
-    facebook: "https://www.google.com/url?q=https://www.facebook.com/tycoonkingdom&sa=D&source=editors&ust=1757080855239515&usg=AOvVaw0lRt4Rf1uXZP9ayPKwDTpC",
-    youtube: "https://www.google.com/url?q=https://www.youtube.com/@TycoonKingdom&sa=D&source=editors&ust=1757080855241236&usg=AOvVaw2j2R3Bq4RUafqamFQ4KITE",
-    tiktok: "https://www.google.com/url?q=https://www.tiktok.com/@tycoonkingdom_&sa=D&source=editors&ust=1757080855241736&usg=AOvVaw0qO0cCcnmpeAvNqiuJykRe"
+    facebook: "https://www.facebook.com/tycoonkingdom",
+    youtube: "https://www.youtube.com/@TycoonKingdom&sa=D&source=editors&ust=1757080855241236&usg=AOvVaw2j2R3Bq4RUafqamFQ4KITE",
+    tiktok: "https://www.tiktok.com/@tycoonkingdom_&sa=D&source=editors&ust=1757080855241736&usg=AOvVaw0qO0cCcnmpeAvNqiuJykRe"
   };
 
   const socialLinks = [
